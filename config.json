@@ -104,10 +104,8 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源",
       "is_adult": false
-    }
-  }
-   "cache_time": 3600,
-   "api_site": {
+    },
+
     "1080zyku": {
       "api": "https://api.1080zyku.com/inc/api_mac10.php",
       "name": "TV-1080资源",
